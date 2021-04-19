@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "https://apps.sillakorean.com/static/css/main.1359096b.chunk.css",
+    "main.js": "https://apps.sillakorean.com/static/js/main.74e5ba6e.chunk.js",
+    "runtime-main.js": "https://apps.sillakorean.com/static/js/runtime-main.775125d6.js",
+    "static/js/2.cfa9cf2d.chunk.js": "https://apps.sillakorean.com/static/js/2.cfa9cf2d.chunk.js",
+    "static/js/3.2cc5ab4c.chunk.js": "https://apps.sillakorean.com/static/js/3.2cc5ab4c.chunk.js",
+    "index.html": "https://apps.sillakorean.com/index.html",
+    "static/js/2.cfa9cf2d.chunk.js.LICENSE.txt": "https://apps.sillakorean.com/static/js/2.cfa9cf2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.775125d6.js",
+    "static/js/2.cfa9cf2d.chunk.js",
+    "static/css/main.1359096b.chunk.css",
+    "static/js/main.74e5ba6e.chunk.js"
+  ]
+}
